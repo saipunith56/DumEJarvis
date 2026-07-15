@@ -1,0 +1,6 @@
+{
+  "name": "DumEJarvis",
+  "description": "A high-fidelity LiveKit Voice Assistant Web client modeled after agent-starter-android, supporting real-time voice, camera streams, screen sharing, and chat transcription.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

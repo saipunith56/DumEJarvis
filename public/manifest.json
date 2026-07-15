@@ -1,0 +1,21 @@
+{
+  "short_name": "DumEJarvis",
+  "name": "DumEJarvis Voice Companion",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/cosmic/192/000000/artificial-intelligence.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://img.icons8.com/cosmic/512/000000/artificial-intelligence.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "display": "standalone",
+  "orientation": "portrait"
+}
